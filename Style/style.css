@@ -5,21 +5,39 @@
     border-radius: 0;
 }
 #div-parent{
-    height: 400px;
-    width: 400px;
-    background-image: url(/Images/download\ \(2\).jpeg);
+    /* background-image: linear-gradient(to right , rgba(231, 232, 236, 0.726),rgba(236, 240, 236, 0)), ; */
+    background-image: url('/Images/moon2.gif');    
+    height: 600px;
     margin-left: auto;
     margin-right: auto;
     margin-top: 0px;
     border-radius: 10px;
+    padding : 30px 40px;
 }
 h1{
     text-align: center;
-    color : red;
+    color : rgba(218, 206, 206, 0.799);
     padding: 50px 0 ;
     margin: 50px auto auto;
     font-family: Arial, Helvetica, sans-serif;
     text-shadow: 10px solid rgba(36, 5, 139, 0.365);
-
-
+}
+#parent-search{
+    
+    background-color: rgb(18, 123, 214);
+    padding : auto solid white;
+    height: 200px;
+    width: 400px;
+    margin: 90px auto;
+    margin-left: 30%;
+    padding : 20px auto red;
+}
+#email{
+    width: 300px;
+    padding: 30px 30px auto 20px;
+    font-size: medium;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+#pass{
+    
 }
