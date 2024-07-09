@@ -6,7 +6,7 @@
 }
 #div-parent{
     /* background-image: linear-gradient(to right , rgba(231, 232, 236, 0.726),rgba(236, 240, 236, 0)), ; */
-    background-image: url('/Images/moon2.gif');    
+    background-image: url('/image/moon2.gif');    
     height: 600px;
     margin-left: auto;
     margin-right: auto;
